@@ -37,6 +37,43 @@
           "image": ""
         }
       ]
+    },{
+      "id": 2,
+      "name": "Visiting Cards",
+      "description": "Best Quality Visiting Cards",
+      "image": "https://raw.githubusercontent.com/ashishrawat2911/Flutter-UAPrinters/master/assets/images_for_web/homepage/visiting_card.jpeg?token=AHZSZESQVV5ELZYYLP6D3TC6JPAC6",
+      "sub_category": [
+        {
+          "id": 11,
+          "name": "Visiting cards (single sided)",
+          "image": ""
+        },
+        {
+          "id": 12,
+          "name": "Visiting cards (back to back)",
+          "image": ""
+        },
+        {
+          "id": 13,
+          "name": "Prime business cards",
+          "image": ""
+        },
+        {
+          "id": 14,
+          "name": "Folded visiting cards",
+          "image": ""
+        },
+        {
+          "id": 15,
+          "name": "Free visiting cards",
+          "image": ""
+        },
+        {
+          "id": 16,
+          "name": "Premium Plastic visiting cards",
+          "image": ""
+        }
+      ]
     }
   ]
 }
